@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Machine Learning** projects and enhancing my **full-stack** development skills.
+- 🔭 I’m currently working on **Machine Learning** projects and enhancing my **frontend** development skills.
 - 🌱 I’m currently learning **Machine Learning**, **ReactJS**, and **Data Structures & Algorithms**.
 - 👯 I’m looking to collaborate on **AI/ML projects**, **frontend development**, and **open-source contributions**.
-- 💬 Ask me about **AI Chatbots**, **frontend development**, and my experience with **SIH 2023** and **Lucknow AI Labs**.
+- 💬 Ask me about **frontend development**, and my experience with **SIH 2023, SIH 2024** and **Lucknow AI Labs**.
 - 📫 How to reach me: [Email](mailto:goldenstone447@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mohd-farhan-khan-61363a255/)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I am very passionate about learning new and evolving technologies.
